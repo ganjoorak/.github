@@ -2,17 +2,14 @@
 
 راحت‌تر شعر بخوانیم و شعر گوش دهیم.
 
-**ارگ:** [github.com/ganjoorak](https://github.com/ganjoorak) · **سایت:** [ganjoorak.ir](https://ganjoorak.ir) · **اسلایدها:** [slides.ganjoorak.ir/v1](https://slides.ganjoorak.ir/v1/)
-
 ## ریپوها
 
-| ریپو | چیست |
+| ریپو | توضیحات |
 |------|------|
-| [website](https://github.com/ganjoorak/website) | کد وب‌سایت (توسعه روی `main`، پرود روی `production`) |
-| [slides](https://github.com/ganjoorak/slides) | اسلایدهای ارائه |
+| [website](https://github.com/ganjoorak/ganjoorak) | کد وب‌سایت (توسعه روی `main`، پروداکشن روی `production`) |
+| [videos](https://github.com/ganjoorak/ganjoorak-kmp) | نسخه کراس‌پلتفرم توسعه یافته‌شده با کاتلین برای دسکتاپ و موبایل |
 | [echolalia-data](https://github.com/ganjoorak/echolalia-data) | آینهٔ دادهٔ اکولالیا |
 | [videos](https://github.com/ganjoorak/videos) | ویدیوهای دموی وب |
-| [mobile](https://github.com/ganjoorak/mobile) | اپ موبایل |
-| [desktop](https://github.com/ganjoorak/desktop) | اپ دسکتاپ |
 
-پروژهٔ محصول: [نقشه راه](https://github.com/orgs/ganjoorak/projects/1)
+
+نقشه‌ راه: [نقشه راه](https://github.com/orgs/ganjoorak/projects/1)
